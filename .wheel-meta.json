@@ -1,0 +1,22 @@
+{
+  "wheel_id": 463,
+  "structure": "umbrella",
+  "slug": "retainingwallipswich-103",
+  "project": "retaining-walls-ipswich-how-to-choose-9a2a60751bc6f3aa1c23baf23",
+  "parent_t1_ref": "retainingwallipswich-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallipswich.com.au",
+  "primary_kw": "retaining walls ipswich how to choose",
+  "intended_url": "https://sitesau.github.io/retainingwallipswich-103/",
+  "tier": "T2",
+  "writeback_nonce": "ec197c5a33242857",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-walls-ipswich-cost-guide-da4311ca3e8fa30e8a8098f3b/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
